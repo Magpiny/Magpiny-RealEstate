@@ -21,8 +21,8 @@ const Property = ({property:{ coverPhoto,price,rentFrequency,rooms,title,baths,a
                         <Text fontWeight="bold" fontSize="lg">
                             AED {millify(price)} { rentFrequency && `/${rentFrequency}` }
                         </Text>
-                        <Box>
-                            <Avatar size="sm" src={ agency?.logo?.url } />
+                        <Box alignItems="flex-end">
+                            <Avatar marginLeft="10vw" size="sm" src={ agency?.logo?.url } />
                         </Box>
                     </Flex>
                 </Flex>
