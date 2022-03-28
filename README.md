@@ -1,3 +1,9 @@
+# API practice 101, 
+## Used this from Javascript Mastery to practice using APIs
+
+![Home Page](https://ik.imagekit.io/magpiny21/Any_Project_Photos/realestate_-QH9CaLmF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648489113026&tr=w-1200%2Ch-675%2Cfo-auto)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
